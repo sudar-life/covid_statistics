@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         Get.put(CovidStatisticsController());
       }),
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primaryColor: Colors.white,
       ),
       home: App(),
     );
